@@ -41,6 +41,6 @@ Para lanzar los tests:
 
 ## Autores
 
-- Jia Jie Ye – [L0stFr0mLighT]
-- Yurong Cheng - [Yurong0q]
-- Álvaro Vicente – [AlvaroVicente28]
+- Jia Jie Ye – [L0stFr0mLighT](https://github.com/L0stFr0mLighT)
+- Yurong Cheng - [Yurong0q](https://github.com/Yurong0q)
+- Álvaro Vicente – [AlvaroVicente28](https://github.com/AlvaroVicente28)
